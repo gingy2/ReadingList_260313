@@ -1,0 +1,16 @@
+// import React, { useContext } from 'react';
+// import { Link } from 'react-router-dom';
+// import { BookContext } from '../App';
+
+// const Navi = () => {
+
+//     const {book, setBook}=useContext(BookContext); // 저장된
+
+//     return (
+//         <div>
+//             <Link to='/BookList'> 📚 {book.length} Books to Read 📚 </Link>
+//         </div>
+//     );
+// };
+
+// export default Navi;
